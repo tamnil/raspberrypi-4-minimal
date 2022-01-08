@@ -1,0 +1,5 @@
+#!/bin/bash
+sudo apt-update -y
+sudo apt upgrade -y
+sudo apt install -y tmux git wget curl tmux zsh synaptic xserver-xorg xfce4 xfce4-goodies  automake autoconf build-essential texinfo libtool libftdi-dev libusb-1.0-0-dev
+
